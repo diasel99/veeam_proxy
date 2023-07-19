@@ -1,7 +1,7 @@
 #!/bin/bash
 
 cd /root
-chmod +x veeam_proxy.sh
+chmod +x veeam_proxy
 
 cd /etc/squid/ 
 cp local.conf local.conf.bak
