@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd /home/Administrator
+cd /root
 chmod +x veeam_proxy.sh
 
 cd /etc/squid/ 
